@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: whitepaper.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: mybibfile.bib
+Warning--I didn't find a database entry for "Orell"
+Warning--I didn't find a database entry for "ABC"
+Warning--I didn't find a database entry for "Bloomberg."
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in schaer:20
+
+Done.
+(There were 4 warnings)
