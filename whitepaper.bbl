@@ -42,6 +42,35 @@ FINMA. (2019) {FINMA publishes ‘stable coin’ guidelines}. [Online].
   \url{https://www.finma.ch/en/news/2019/09/20190911-mm-stable-coins}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Orell}
+D.~Orrell and R.~Chlupat\'{y}, \emph{The Evolution of Money}.\hskip 1em plus
+  0.5em minus 0.4em\relax Columbia University Press, 2016.
+
+\bibitem{Gimigliano}
+N.~Vardi, L.~Scipione, V.~Santoro, C.~Mertzanis, C.~Gortsos, C.~D. Anca,
+  V.~Cattelan, M.~B. Beros, A.~Borron, and A.~Jańczuk-Gorywoda, \emph{Money,
+  Payment Systems and the European Union}, G.~Gimigliano, Ed.\hskip 1em plus
+  0.5em minus 0.4em\relax Cambridge Scholars Publishing, 2016.
+
+\bibitem{Vuillaume}
+\BIBentryALTinterwordspacing
+P.~Vuillaume. (2015) Wir: Eine \"{o}konomische analyse der
+  komplement\"{a}rw\"{a}hrung zum schweizer franken. [Online]. Available:
+  \url{{https://wwz.unibas.ch/fileadmin/user_upload/wwz/00_Professuren/Berentsen_Wirtschaftstheorie/Lecture_Material/Master_s_Thesis/Completed_Master_s_Theses/vuillaume.pdf}}
+\BIBentrySTDinterwordspacing
+
+\bibitem{WIR2}
+\BIBentryALTinterwordspacing
+WIR. (2020) Wir-kmu-paket. [Online]. Available:
+  \url{{https://www.wir.ch/firmenkunden/wir-ihr-weg-zum-erfolg/wir-kmu-paket/#eintrag-9374}}
+\BIBentrySTDinterwordspacing
+
+\bibitem{WIR}
+\BIBentryALTinterwordspacing
+------. (2020) Fragen \& antworten (faq). [Online]. Available:
+  \url{{https://www.wir.ch/ueber-uns/fragen-antworten-faq/#eintrag-3199}}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Consensys}
 \BIBentryALTinterwordspacing
 ConsenSys. (2019) {The State of Stablecoins, 2019}. [Online]. Available:
@@ -82,8 +111,8 @@ C.~Sellars. (2014, 8) {CRAIG – MASTERCOIN FOUNDATION CTO. AMA!} [Online].
 
 \bibitem{Roth}
 \BIBentryALTinterwordspacing
-J.~Roth, F.~Schär, and A.~Schöpfer. (2019, 9) The tokenization of assets:
-  Using blockchains for equity crowdfunding. [Online]. Available:
+J.~Roth, F.~Sch\"{a}r, and A.~Sch\"{o}pfer. (2019, 9) The tokenization of
+  assets: Using blockchains for equity crowdfunding. [Online]. Available:
   \url{{http://dx.doi.org/10.2139/ssrn.3443382}}
 \BIBentrySTDinterwordspacing
 
@@ -203,7 +232,7 @@ D.~Bullmann, J.~Klemm, and A.~Pinna, ``In search for stability in
   crypto-assets: are stablecoins the solution?'' 8 2019.
 
 \bibitem{Berentsen}
-A.~Berentsen and F.~Schär, ``The case for central bank electronic money and
+A.~Berentsen and F.~Sch\"{a}r, ``The case for central bank electronic money and
   the non-case for central bank cryptocurrencies,'' \emph{Federal Reserve Bank
   of St. Louis}, vol. 100, no.~2, pp. 79--106, 2018.
 
@@ -221,7 +250,7 @@ D.~Hays. (2019, 8) {Gold Stablecoins}. [Online]. Available:
 \BIBentrySTDinterwordspacing
 
 \bibitem{Berentsen2}
-A.~Berentsen and F.~Schär, \emph{The Economics of Fintech and Digital
+A.~Berentsen and F.~Sch\"{a}r, \emph{The Economics of Fintech and Digital
   Currencies}.\hskip 1em plus 0.5em minus 0.4em\relax CEPR Press, 2019, ch.
   Stablecoins: The quest for a low-volatility cryptocurrency.
 
@@ -254,7 +283,7 @@ O.~Kharif. (2019, 8) {Just 318 Crypto Addresses Control 80\% of Tether}.
 
 \bibitem{schaer:20}
 \BIBentryALTinterwordspacing
-F.~Schär, ``Decentralized finance: On blockchain- and smart contract-based
+F.~Sch\"{a}r, ``Decentralized finance: On blockchain- and smart contract-based
   financial markets,'' 2020. [Online]. Available:
   \url{https://dx.doi.org/10.13140/RG.2.2.18469.65764}
 \BIBentrySTDinterwordspacing
